@@ -1,3 +1,3 @@
 # random
 tutorial
-by kaushik
+by kaushik dubey
